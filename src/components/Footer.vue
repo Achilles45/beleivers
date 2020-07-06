@@ -10,7 +10,9 @@
                <div class="col-md-4">
                   <h5>Our Location & Contact</h5>
                 <h6><i class="fa fa-home"></i> Head Office</h6>
-                <p>No 3 Lamino Street Doma Road, Lafia Nasarawa State, Nigeria.</p>
+                <p>5C Reverend Ogunbiyi Street Ikeja, GRA, Lagos Nigeria.</p>
+                <h6><i class="fa fa-home"></i> Branch Office</h6>
+                <p>No. 47 Atan Offot, off IBB avenue close to iyosa plaza nearest bus stop metropolitan polytechnic Akwa ibom.</p>
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
                 <p>believersearnersinvest231@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>

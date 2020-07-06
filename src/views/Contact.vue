@@ -34,7 +34,7 @@
                      <div class="icon__wrapper">
                             <p><i class="fa fa-home"></i></p>
                      </div>
-                        <p class="pl-3">No 3 Lamino Street Doma Road, Lafia Nasarawa State, Nigeria</p>
+                        <p class="pl-3">5C Reverend Ogunbiyi Street Ikeja, GRA, Lagos Nigeria.</p>
                     </div>
                   </div>
                   <br>

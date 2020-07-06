@@ -9,7 +9,7 @@
           <div class="col-md-5">
               <h2>About Believers Earners Investment</h2>
               <hr>
-              <p>Beleivers Earners is your company of choice that allows you make high interest yielding and secured investments into oil and gas related opportunities that would otherwise not be available to the general public. Our expert team of fund managers and traders will trade pectroleum related products for gooreturns. <br>You too can start earning our 80% in 4 days for initial investment, or in 44 hours when you select our promo plans <br>PLEASE NOTE THAT INITIAL INVESTMENT FOR ALL MEMBERS IS COMPULSORY</p>
+              <p>Beleivers Earners is your company of choice that allows you make high interest yielding and secured investments into oil and gas related opportunities that would otherwise not be available to the general public. Our expert team of fund managers and traders will trade pectroleum related products for gooreturns. <br>You too can start earning our 80% in 4 days for initial investment, or in 24 hours when you select our promo plans <br>PLEASE NOTE THAT INITIAL INVESTMENT FOR ALL MEMBERS IS COMPULSORY</p>
                <router-link to="/signup" class="intro-btn animated zoomIn animate3d">Get Started <i class="fas fa-long-arrow-alt-right"></i> </router-link>
           </div>
       </div>
