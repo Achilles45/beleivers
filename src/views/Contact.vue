@@ -26,7 +26,7 @@
                         <div class="icon__wrapper">
                             <p><i class="fa fa-phone"></i></p>
                         </div>
-                        <p class="pl-3">+2348102781317</p>
+                        <p class="pl-3"><a href="https://t.me/HAEDADMINBELIEVEES">Send Message</a></p>
                     </div>
                   </div><br>
                    <div class="col-md-4">

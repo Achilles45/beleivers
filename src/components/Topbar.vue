@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-3">
-                 <i class="fa fa-phone"></i>&nbsp;&nbsp; +2348102781317&nbsp;  (Mon - Fri, 9am to 4pm)
+                 <i class="fa fa-phone"></i>&nbsp;&nbsp; <a href="https://t.me/HAEDADMINBELIEVEES">Send Message</a> &nbsp;  (Mon - Fri, 9am to 4pm)
             </div>
             <div class="col-md-3">
                  <i class="fa fa-envelope"></i>&nbsp;&nbsp; believersearnersinvest231@gmail.com

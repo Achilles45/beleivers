@@ -16,7 +16,7 @@
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
                 <p>believersearnersinvest231@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>
-                <p><a href="tel:+2348102781317"> +2348102781317</a></p>
+                <p><a href="https://t.me/HAEDADMINBELIEVEES">Send Message</a></p>
               </div>
               <div class="col-md-4">
                   <h5>Payment Method</h5>

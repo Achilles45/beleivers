@@ -36,7 +36,7 @@
              <small>You can now make request to make withdrawal into your local bank when your investment has reached maturity</small>
              <hr>
               <div v-if="verifyuser == 'false'" class="red">
-                  You can't make withdrawals because your account or payment has not been verified. Please contact admin or call <a href="tel:+2348102781317">+2348102781317</a>
+                  Your account has not been verified. Please make your payment for verification or send a message <a href="https://t.me/HAEDADMINBELIEVEES">Send Message</a>
               </div>
                <div class="row">
                    <div class="col-md-8">
